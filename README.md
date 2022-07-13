@@ -1,16 +1,18 @@
 # Boostcamp AI Tech
 -----
-## OOP
+## 1. OOP
 -----
-## Module and Project
+## 2. Module and Project
 -----
-## File / Exception / Log Handling
-### File : open, close, with
+## 3. File / Exception / Log Handling
+### 3-1) File : open, close, with
 #####      - Lib  : pickle (Python에서 사용하는 Binary 파일)  
-
-### Exception : try, except(<error_name>), else, finally  
-
-###      Log Handling (나중에 필요하면 공부)
+  
+  
+### 3-2) Exception : try, except(<error_name>), else, finally  
+  
+  
+### 3-3) Log Handling (나중에 필요하면 공부)
 #####      - Lib : logging, configparser file, argparser
 #####      -- logging : 기본
 #####      -- configparser : section을 나눠서 dic 형태로 저장
