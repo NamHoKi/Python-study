@@ -7,9 +7,9 @@
 ## File / Exception / Log Handling
 ### File : open, close, with
 #####      Lib  : pickle (Python에서 사용하는 Binary 파일)
------
+
 ### Exception : try, except(<error_name>), else, finally
------
+
 ###      Log Handling (나중에 필요하면 공부)
 #####      Lib : logging, configparser file, argparser
 #####      -- logging : 기본
