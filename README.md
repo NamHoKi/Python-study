@@ -25,4 +25,4 @@
 #####      -- configparser : section을 나눠서 dic 형태로 저장
 #####      -- argpaser : console setting info (구글에 검색하면 많은 함수가 나옴, 복잡함)
 -----
-## 
+## 경사 하강법
